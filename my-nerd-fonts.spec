@@ -1,5 +1,5 @@
 Name:           my-nerd-fonts
-Version:        2019.08
+Version:        2019.10
 Release:        1%{?dist}
 Summary:        Selection of NerdFonts patched fonts
 
@@ -38,5 +38,8 @@ Specifically to add a high number of extra glyphs from popular â€˜iconic fontsâ€
 
 
 %changelog
-* Fri Feb 15 2019 Milan Zink <zeten30@gmail.com> - 2019.0.1
+* Wed Oct 23 2019 Milan Zink <zeten30@gmail.com> - 2019.10.1
+- added Terminus & Noto fonts
+
+* Fri Feb 15 2019 Milan Zink <zeten30@gmail.com> - 2019.08.1
 - initial release
