@@ -39,7 +39,7 @@ Specifically to add a high number of extra glyphs from popular â€˜iconic fontsâ€
 
 %changelog
 * Wed Oct 23 2019 Milan Zink <zeten30@gmail.com> - 2019.10.1
-- added Terminus & Noto fonts
+- added Terminus font
 
 * Fri Feb 15 2019 Milan Zink <zeten30@gmail.com> - 2019.08.1
 - initial release
