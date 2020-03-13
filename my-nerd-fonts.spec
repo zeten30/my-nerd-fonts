@@ -1,5 +1,5 @@
 Name:           my-nerd-fonts
-Version:        2020.02
+Version:        2020.03
 Release:        1%{?dist}
 Summary:        Selection of NerdFonts patched fonts
 
@@ -38,6 +38,9 @@ Specifically to add a high number of extra glyphs from popular â€˜iconic fontsâ€
 
 
 %changelog
+* Fri Mar 13 2020 Milan Zink <zeten30@gmail.com> - 2020.03.1
+- 2.1 upstream release
+
 * Wed Oct 23 2019 Milan Zink <zeten30@gmail.com> - 2019.10.1
 - added Terminus font
 
