@@ -1,6 +1,6 @@
 Name:           my-nerd-fonts
 Version:        2020.03
-Release:        1%{?dist}
+Release:        2%{?dist}
 Summary:        Selection of NerdFonts patched fonts
 
 License:        MIT License
