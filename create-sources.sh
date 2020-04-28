@@ -4,7 +4,7 @@
 rm -rf sources/*
 cd sources || exit 1
 
-for FNT in Hack SourceCodePro Go-Mono Hermit Terminus VictorMono; do
+for FNT in Hack SourceCodePro Go-Mono Hermit Terminus VictorMono JetBrainsMono; do
   wget https://github.com/ryanoasis/nerd-fonts/releases/download/v2.1.0/${FNT}.zip
   unzip ${FNT}.zip 
 done
