@@ -1,6 +1,6 @@
 Name:           my-nerd-fonts
-Version:        2020.04
-Release:        1%{?dist}
+Version:        2020.10
+Release:        2%{?dist}
 Summary:        Selection of NerdFonts patched fonts
 
 License:        MIT License
@@ -38,6 +38,9 @@ Specifically to add a high number of extra glyphs from popular â€˜iconic fontsâ€
 
 
 %changelog
+* Fri Mar 13 2020 Milan Zink <zeten30@gmail.com> - 2020.10.2
+- removed unused fonts
+
 * Fri Mar 13 2020 Milan Zink <zeten30@gmail.com> - 2020.03.1
 - 2.1 upstream release
 
