@@ -1,10 +1,10 @@
 Name:           my-nerd-fonts
 Version:        2021.09
-Release:        3%{?dist}
+Release:        4%{?dist}
 Summary:        Selection of NerdFonts patched fonts
 
 License:        MIT License
-URL:            https://github.com/ryanoasis/nerd-fonts/releases/download/v2.0.0/*.zip
+URL:            https://github.com/ryanoasis/nerd-fonts/releases/download/v2.1.0/*.zip
 Source0:        my-nerd-fonts.tgz
 
 BuildArch:      noarch
@@ -12,7 +12,7 @@ BuildRequires:  fontpackages-devel
 Requires:       fontpackages-filesystem
 
 %description
-Nerd Fonts patches developer targeted fonts with a high number of glyphs (icons). 
+Nerd Fonts patches developer targeted fonts with a high number of glyphs (icons).
 Specifically to add a high number of extra glyphs from popular ‘iconic fonts’ such as Font Awesome, Devicons, Octicons, and others.
 
 

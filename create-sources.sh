@@ -6,7 +6,7 @@ mkdir -p sources
 rm -rf sources/*
 cd sources || exit 1
 
-for FNT in Hack SourceCodePro JetBrainsMono; do
+for FNT in Hack SourceCodePro JetBrainsMono CascadiaCode; do
   wget https://github.com/ryanoasis/nerd-fonts/releases/download/v2.1.0/${FNT}.zip
   unzip ${FNT}.zip
 done
