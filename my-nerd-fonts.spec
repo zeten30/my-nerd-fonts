@@ -1,6 +1,6 @@
 Name:           my-nerd-fonts
 Version:        2021.09
-Release:        1%{?dist}
+Release:        3%{?dist}
 Summary:        Selection of NerdFonts patched fonts
 
 License:        MIT License
@@ -38,6 +38,9 @@ Specifically to add a high number of extra glyphs from popular â€˜iconic fontsâ€
 
 
 %changelog
+* Tue Sep 7 2021 Milan Zink <zeten30@gmail.com> - 2021.09.3
+- removed Lekton font
+
 * Wed Apr 28 2021 Milan Zink <zeten30@gmail.com> - 2021.04.1
 - added Lekton font
 
