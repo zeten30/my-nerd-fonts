@@ -1,5 +1,5 @@
 Name:           my-nerd-fonts
-Version:        2021.09
+Version:        2022.03
 Release:        6%{?dist}
 Summary:        Selection of NerdFonts patched fonts
 
