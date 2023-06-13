@@ -1,10 +1,10 @@
 Name:           my-nerd-fonts
-Version:        2023.3
+Version:        2023.6
 Release:        1%{?dist}
 Summary:        Selection of NerdFonts patched fonts
 
 License:        MIT License
-URL:            https://github.com/ryanoasis/nerd-fonts/releases/download/v2.1.0/*.zip
+URL:            https://github.com/ryanoasis/nerd-fonts/releases/
 Source0:        my-nerd-fonts.tgz
 
 BuildArch:      noarch
@@ -13,7 +13,7 @@ Requires:       fontpackages-filesystem
 
 %description
 Nerd Fonts patches developer targeted fonts with a high number of glyphs (icons).
-Specifically to add a high number of extra glyphs from popular ‘iconic fonts’ such as Font Awesome, Devicons, Octicons, and others.
+Specifically to add a high number of extra glyphs from popular 'iconic fonts' such as Font Awesome, Devicons, Octicons, and others.
 
 
 %prep
@@ -38,6 +38,10 @@ Specifically to add a high number of extra glyphs from popular ‘iconic fonts�
 
 
 %changelog
+* Tue Sep 7 2021 Milan Zink <zeten30@gmail.com> - 2023.06.1
+- removed RobotoMono font
+- latest upstream sync
+
 * Tue Sep 7 2021 Milan Zink <zeten30@gmail.com> - 2021.09.3
 - removed Lekton font
 
