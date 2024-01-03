@@ -1,5 +1,5 @@
 Name:           my-nerd-fonts
-Version:        2023.8
+Version:        2024.1
 Release:        1%{?dist}
 Summary:        Selection of NerdFonts patched fonts
 
@@ -38,6 +38,9 @@ Specifically to add a high number of extra glyphs from popular 'iconic fonts' su
 
 
 %changelog
+* Wed Jan 3 2024 Milan Zink <zeten30@gmail.com> - 2024.01.1
+- latest upstream sync
+
 * Tue Sep 7 2021 Milan Zink <zeten30@gmail.com> - 2023.06.1
 - removed RobotoMono font
 - latest upstream sync
